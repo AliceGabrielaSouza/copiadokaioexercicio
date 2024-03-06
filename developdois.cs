@@ -1,0 +1,12 @@
+using System;
+class Nome {
+  static void Main() {
+      
+      string nome = "Kaio Henrique";
+      Console.WriteLine(nome);
+      Console.WriteLine("Que interessante!");
+      string nome = "Alice";
+      Console.WriteLine(nome);
+      Console.WriteLine("esquece kaio, alice é um nome mais interessante");
+  }
+}
